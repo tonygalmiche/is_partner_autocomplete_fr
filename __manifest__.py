@@ -21,5 +21,5 @@ recherche-entreprises.api.gouv.fr (sans abonnement payant).
     ],
     "installable": True,
     "application": False,
-    "license": "LGPL-3",
+    "license": "AGPL-3",
 }
